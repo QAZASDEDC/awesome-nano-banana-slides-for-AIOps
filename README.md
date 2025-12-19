@@ -7,6 +7,6 @@
 > 🍌 A curated list of awesome Nano Banana Slides resources for AIOps (Artificial Intelligence for IT Operations).
 
 ## Incident Management
-[Subgraphs as First-Class Citizens in Incident Management for Large-Scale Online Systems: An Evolution-Aware Framework](./Taming_the_Incident_Storm_with_GEM.pdf)
+- [Subgraphs as First-Class Citizens in Incident Management for Large-Scale Online Systems: An Evolution-Aware Framework](./Taming_the_Incident_Storm_with_GEM.pdf)
 
 ## Change Management
