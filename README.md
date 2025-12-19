@@ -14,3 +14,6 @@
 - [[NSDI 2020] Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](./slides/Gandalf_Azure_Deployment_Safety.pdf)
 - [[arxiv 2025] Enhancing Interpretability in Software Change Management with Chain-of-Thought Reasoning](./slides/SCELM_可靠透明_AIOps.pdf)
 - [[SIGCOMM 2021] A composition framework for change management](./slides/CORNET_自动化网络变更管理.pdf)
+
+## SRE Agents
+- [[NeurIPS 2025] Stratus: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds](./slides/运维智能体技术分享.pdf)
