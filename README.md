@@ -8,6 +8,12 @@
 ## Incident Management
 - [[TSE 2025] Subgraphs as First-Class Citizens in Incident Management for Large-Scale Online Systems: An Evolution-Aware Framework](./slides/Taming_the_Incident_Storm_with_GEM.pdf)
 
+## Alert Management
+- [[TOSEM 2025] On the Practicability of Deep Learning Based Anomaly Detection for Modern Online Software Systems: A Pre-Train-and-Align Framework](./slides/ShareAD_Making_Anomaly_Detection_Practical.pdf)
+
+## Job Management
+- [[arxiv 2025] DaiFu: In-Situ Crash Recovery for Deep Learning Systems](./slides/DaiFu_Program_Vaccination_Crash_Recovery.pdf)
+
 ## Change Management
 - [Survey-1](./slides/云变更质量探秘_SRE与AIOps实践.pdf)
 - [Survey-2](./slides/Hyperscale_Cloud_Change_AIOps.pdf)
