@@ -11,8 +11,11 @@
 
 ## Alert Management
 - [[TOSEM 2025] On the Practicability of Deep Learning Based Anomaly Detection for Modern Online Software Systems: A Pre-Train-and-Align Framework](./slides/ShareAD_Making_Anomaly_Detection_Practical.pdf)
+- [[TON 2025] NetScope: Fault Localization in Programmable Networking Systems With Low-Cost In-Band Network Telemetry and In-Network Detection]()
+- [[SRDS 2025] CloudHeal: A Lightweight Online Learning Based Self-Healing Framework for Cloud-Native Systems]()
 - [[arxiv 2025] Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models]()
 - [[FSE 2024] MonitorAssistant: Simplifying Cloud Service Monitoring via Large Language Models]()
+- [[DSN 2024] Real-Time Intrusion Detection and Prevention with Neural Network in Kernel Using eBPF]()
 - [[TDSC 2023] SwissLog: Robust Anomaly Detection and Localization for Interleaved Unstructured Logs]()
 
 ## Job Management
@@ -35,6 +38,7 @@
 ## Cost Management
 - [[ICSE 2026] InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching]()
 - [[ASPLOS 2025] Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis]()
+- [[Computer Networks 2025] MoTor: Resource-Efficient Cloud-Native Network Acceleration with Programmable Switches]()
 - [[FSE 2024] TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State]()
 - [[ASE 2024] FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows]()
 - [[Internetware 2024] CTuner: Automatic NoSQL Database Tuning with Causal Reinforcement Learning]()
