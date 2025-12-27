@@ -22,5 +22,22 @@
 - [Survey-1](./slides/云变更质量探秘_SRE与AIOps实践.pdf)
 - [Survey-2](./slides/Hyperscale_Cloud_Change_AIOps.pdf)
 
+## Risk Management
+- [[TDSC 2024] MicroFI: Non-Intrusive and Prioritized Request-Level Fault Injection for Microservice Applications]()
+- [[arxiv 2025] ChaosEater: Fully Automating Chaos Engineering with Large Language Models]()
+
+## Cost Management
+- [[ICSE 2026] InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching]()
+- [[ASPLOS 2025] Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis]()
+- [[FSE 2024] TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State]()
+- [[ASE 2024] FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows]()
+- [[Internetware 2024] CTuner: Automatic NoSQL Database Tuning with Causal Reinforcement Learning]()
+- [[TSC 2024] FaaSDeliver: Cost-Efficient and QoS-Aware Function Delivery in Computing Continuum]()
+- [[ICPP 2024] DeepPower: Deep Reinforcement Learning based Power Management for Latency Critical Applications in Multi-core Systems]()
+
+## Ticket Management
+- [[ASE 2025] iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation]()
+- [[IJCNN 2025] TechSupportEval: An Automated Evaluation Framework for Technical Support Question Answering]()
+
 ## SRE Agents
 - [[NeurIPS 2025] Stratus: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds](./slides/运维智能体技术分享.pdf)
