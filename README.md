@@ -7,21 +7,21 @@
 
 ## Incident Management
 - [[TSE 2025] Subgraphs as First-Class Citizens in Incident Management for Large-Scale Online Systems: An Evolution-Aware Framework](./slides/Taming_the_Incident_Storm_with_GEM.pdf)
-- [[ASE 2024] ART: A Unified Unsupervised Framework for Incident Management in Microservice Systems]()
+- [[ASE 2024] ART: A Unified Unsupervised Framework for Incident Management in Microservice Systems](./slides/ART_An_Automatic_Rescue_Tool_for_Oncall_Engineers.pdf)
 
 ## Alert Management
 - [[TOSEM 2025] On the Practicability of Deep Learning Based Anomaly Detection for Modern Online Software Systems: A Pre-Train-and-Align Framework](./slides/ShareAD_Making_Anomaly_Detection_Practical.pdf)
 - [[TON 2025] NetScope: Fault Localization in Programmable Networking Systems With Low-Cost In-Band Network Telemetry and In-Network Detection]()
 - [[SRDS 2025] CloudHeal: A Lightweight Online Learning Based Self-Healing Framework for Cloud-Native Systems]()
-- [[arxiv 2025] Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models]()
-- [[FSE 2024] MonitorAssistant: Simplifying Cloud Service Monitoring via Large Language Models]()
+- [[arxiv 2025] Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models](./slides/ARGOS_Explainable_Anomaly_Rules.pdf)
+- [[FSE 2024] MonitorAssistant: Simplifying Cloud Service Monitoring via Large Language Models](./slides/MonitorAssistant_LLM_Monitoring.pdf)
 - [[DSN 2024] Real-Time Intrusion Detection and Prevention with Neural Network in Kernel Using eBPF]()
 - [[TDSC 2023] SwissLog: Robust Anomaly Detection and Localization for Interleaved Unstructured Logs]()
 
 ## Job Management
 - [[arxiv 2025] DaiFu: In-Situ Crash Recovery for Deep Learning Systems](./slides/DaiFu_Program_Vaccination_Crash_Recovery.pdf)
-- [[ICSE 2025] On the Diagnosis of Flaky Job Failures: Understanding and Prioritizing Failure Categories]()
-- [[NSDI 2024] Characterization of Large Language Model Development in the Datacenter]()
+- [[ICSE 2025] On the Diagnosis of Flaky Job Failures: Understanding and Prioritizing Failure Categories](./slides/The_Mystery_of_the_Flaky_CI_Jobs.pdf)
+- [[NSDI 2024] Characterization of Large Language Model Development in the Datacenter](./slides/Nobitas_Big_Adventure_in_LLM_Datacenters.pdf)
 
 ## Change Management
 - [[FSE 2024] ChangeRCA: Finding Root Causes from Software Changes in Large Online Systems](./slides/Root_Cause_Change_Analysis.pdf)
@@ -33,7 +33,7 @@
 
 ## Risk Management
 - [[TDSC 2024] MicroFI: Non-Intrusive and Prioritized Request-Level Fault Injection for Microservice Applications]()
-- [[arxiv 2025] ChaosEater: Fully Automating Chaos Engineering with Large Language Models]()
+- [[arxiv 2025] ChaosEater: Fully Automating Chaos Engineering with Large Language Models](./slides/ChaosEater_Fully_Automated_Resilience.pdf)
 
 ## Cost Management
 - [[ICSE 2026] InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching]()
