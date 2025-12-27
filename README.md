@@ -7,12 +7,18 @@
 
 ## Incident Management
 - [[TSE 2025] Subgraphs as First-Class Citizens in Incident Management for Large-Scale Online Systems: An Evolution-Aware Framework](./slides/Taming_the_Incident_Storm_with_GEM.pdf)
+- [[ASE 2024] ART: A Unified Unsupervised Framework for Incident Management in Microservice Systems]()
 
 ## Alert Management
 - [[TOSEM 2025] On the Practicability of Deep Learning Based Anomaly Detection for Modern Online Software Systems: A Pre-Train-and-Align Framework](./slides/ShareAD_Making_Anomaly_Detection_Practical.pdf)
+- [[arxiv 2025] Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models]()
+- [[FSE 2024] MonitorAssistant: Simplifying Cloud Service Monitoring via Large Language Models]()
+- [[TDSC 2023] SwissLog: Robust Anomaly Detection and Localization for Interleaved Unstructured Logs]()
 
 ## Job Management
 - [[arxiv 2025] DaiFu: In-Situ Crash Recovery for Deep Learning Systems](./slides/DaiFu_Program_Vaccination_Crash_Recovery.pdf)
+- [[ICSE 2025] On the Diagnosis of Flaky Job Failures: Understanding and Prioritizing Failure Categories]()
+- [[NSDI 2024] Characterization of Large Language Model Development in the Datacenter]()
 
 ## Change Management
 - [[FSE 2024] ChangeRCA: Finding Root Causes from Software Changes in Large Online Systems](./slides/Root_Cause_Change_Analysis.pdf)
@@ -32,8 +38,8 @@
 - [[FSE 2024] TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State]()
 - [[ASE 2024] FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows]()
 - [[Internetware 2024] CTuner: Automatic NoSQL Database Tuning with Causal Reinforcement Learning]()
-- [[TSC 2024] FaaSDeliver: Cost-Efficient and QoS-Aware Function Delivery in Computing Continuum]()
-- [[ICPP 2024] DeepPower: Deep Reinforcement Learning based Power Management for Latency Critical Applications in Multi-core Systems]()
+- [[TSC 2023] FaaSDeliver: Cost-Efficient and QoS-Aware Function Delivery in Computing Continuum]()
+- [[ICPP 2023] DeepPower: Deep Reinforcement Learning based Power Management for Latency Critical Applications in Multi-core Systems]()
 
 ## Ticket Management
 - [[ASE 2025] iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation]()
